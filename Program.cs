@@ -41,6 +41,8 @@ for (int i = 0; i < arr.Length; i++)
     Console.Write($"{arr[i]}  ");
    }
 }
-
+Console.WriteLine();
 Console.WriteLine("======reduced array==========");
 PrintArray(reducedArray);
+Console.WriteLine();
+
